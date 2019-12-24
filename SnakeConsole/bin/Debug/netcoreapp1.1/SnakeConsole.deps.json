@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.1": {
+      "SnakeConsole/1.0.0": {
+        "runtime": {
+          "SnakeConsole.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SnakeConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,10 @@
+/mnt/DATA/PROJECT/c_sharp/SnakeConsole/SnakeConsole/bin/Debug/netcoreapp1.1/SnakeConsole.deps.json
+/mnt/DATA/PROJECT/c_sharp/SnakeConsole/SnakeConsole/bin/Debug/netcoreapp1.1/SnakeConsole.runtimeconfig.json
+/mnt/DATA/PROJECT/c_sharp/SnakeConsole/SnakeConsole/bin/Debug/netcoreapp1.1/SnakeConsole.runtimeconfig.dev.json
+/mnt/DATA/PROJECT/c_sharp/SnakeConsole/SnakeConsole/bin/Debug/netcoreapp1.1/SnakeConsole.dll
+/mnt/DATA/PROJECT/c_sharp/SnakeConsole/SnakeConsole/bin/Debug/netcoreapp1.1/SnakeConsole.pdb
+/mnt/DATA/PROJECT/c_sharp/SnakeConsole/SnakeConsole/obj/Debug/netcoreapp1.1/SnakeConsole.csprojAssemblyReference.cache
+/mnt/DATA/PROJECT/c_sharp/SnakeConsole/SnakeConsole/obj/Debug/netcoreapp1.1/SnakeConsole.AssemblyInfoInputs.cache
+/mnt/DATA/PROJECT/c_sharp/SnakeConsole/SnakeConsole/obj/Debug/netcoreapp1.1/SnakeConsole.AssemblyInfo.cs
+/mnt/DATA/PROJECT/c_sharp/SnakeConsole/SnakeConsole/obj/Debug/netcoreapp1.1/SnakeConsole.dll
+/mnt/DATA/PROJECT/c_sharp/SnakeConsole/SnakeConsole/obj/Debug/netcoreapp1.1/SnakeConsole.pdb
